@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hhmq5p.saturadar88.online/sitemap.xml
